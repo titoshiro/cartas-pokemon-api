@@ -1,0 +1,110 @@
+
+
+
+.tarjeta {
+   width: 380px;
+    border-radius: 10px;
+
+    border: #0b0b0b solid 12px;
+    background: linear-gradient(45deg, #faf200, #004fe2);
+ 
+    
+  
+  
+   
+ 
+  }
+.etiqueta{
+    border-radius: 2px;
+    background-color: #0e0d0d;
+    height: 50px;
+   
+
+   
+}
+.nombre{
+    width: 100%;
+    background-color: #f2d61f;
+    color: #0b0b0b;
+    margin: 2px;
+    text-align: center;
+   
+
+    
+}
+
+
+.fotochica{
+    position: absolute;
+    background-color: #1c1818;
+    width: 70px;
+    right: 8px;
+    top: 3px;
+    border-radius: 50px ;
+    
+    
+}
+.triangle-container {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .triangle-container:before {
+    content: "";
+    position: absolute;
+    top: -60px;
+    left: -6px;
+    transform: translateX(-15%);
+    width: 0;
+    height: 0;
+    border-left: 40px solid transparent;
+    border-right: 40px solid transparent;
+    border-top: 80px solid #2a2828;
+    
+  }
+  
+  .text {
+  
+    position: absolute;
+    top: -35px;
+    left: 24px;
+    transform: translate(-50%, -50%);
+    font-family: sans-serif;
+    color: #ffd900;
+    font-size: 26px;
+    text-align: center;
+
+   
+  }
+  .pokemon{
+    box-shadow: 0 0 10px 3px rgba(255, 230, 0, 0.5);
+    width: 380px;
+    height: 400px;
+    
+  }
+
+  .etiqueta2{
+   
+    color: #fff4f4;
+ 
+  }
+
+  .pokebola{
+    width: 35px;
+    border-radius: 100%;
+    margin: 2px;
+  
+  }
+  .habilidad{
+background-color: #000000;
+color: #f2d61f;
+border-radius: 20px;
+  }
+
+
+.habilidades{
+ 
+  color: #000000;
+  font: 20px sans-serif;
+ 
+}
