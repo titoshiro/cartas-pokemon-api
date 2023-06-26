@@ -1,5 +1,6 @@
 import { useState, useEffect } from "react";
 import "./App.css";
+import "./card.css";
 import poke from "./componentes/poke.png";
 import pokebola from "./componentes/pokebola.png";
 import Boton from "./componentes/Boton";
